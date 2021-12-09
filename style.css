@@ -1,0 +1,42 @@
+body{
+background-size: cover;
+}
+
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.note{
+font-size: 15px;
+color: yellow;
+}
+
+.div_speed{
+float: left;
+}
+
+.div_volume{
+float: right;
+}
+
+.div_speed_img,.div_volume_img{
+width: 300px;
+border-radius: 100px;
+}
+
+#speed,#volume{
+font-size: 23px;
+margin: 15px;
+}
+    
+.play_button{
+width: 130px;
+font-size: 25px;
+}
+
+canvas{
+border: 5px solid yellow;
+border-radius: 20px;
+}
